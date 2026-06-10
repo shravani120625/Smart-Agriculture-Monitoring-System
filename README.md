@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌱 Smart Agriculture Monitoring System
 
 An IoT-based Smart Agriculture Monitoring System built using **ESP32**, **DHT22 Sensor**, **Soil Moisture Monitoring**, **Automated Pump Control**, **ThingSpeak Cloud Integration**, and **Python-Based Analytics**.
@@ -585,3 +586,7 @@ MIT License
 Copyright (c) 2026
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files to deal in the Software without restriction.
+=======
+# Smart-Agriculture-Monitoring-System
+Smart Agriculture IoT solution built with ESP32, sensor integration, cloud monitoring, automated pump control, data logging, and Python-based analytics to optimize irrigation and improve farming efficiency.
+>>>>>>> a5e6a34c2eff8ca886684704211dd8a96d744d9d
